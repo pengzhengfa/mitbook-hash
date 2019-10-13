@@ -2,7 +2,9 @@ package com.mitbook.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
-
+/**
+ * @author pengzhengfa
+ */
 @Component
 public class AppConfiguration {
 

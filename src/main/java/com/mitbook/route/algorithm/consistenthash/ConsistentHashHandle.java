@@ -3,7 +3,9 @@ package com.mitbook.route.algorithm.consistenthash;
 import com.mitbook.route.algorithm.RouteHandle;
 
 import java.util.List;
-
+/**
+ * @author pengzhengfa
+ */
 public class ConsistentHashHandle implements RouteHandle {
 
     private AbstractConsistentHash hash ;

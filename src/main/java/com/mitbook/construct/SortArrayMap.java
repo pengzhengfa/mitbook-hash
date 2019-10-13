@@ -2,8 +2,8 @@ package com.mitbook.construct;
 
 import java.util.Arrays;
 import java.util.Comparator;
-
 /**
+ * @author pengzhengfa
  * 根绝key排序的map
  */
 public class SortArrayMap {

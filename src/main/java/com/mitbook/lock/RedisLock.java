@@ -9,7 +9,9 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisCluster;
 
 import java.util.Collections;
-
+/**
+ * @author pengzhengfa
+ */
 @Component
 public class RedisLock {
 

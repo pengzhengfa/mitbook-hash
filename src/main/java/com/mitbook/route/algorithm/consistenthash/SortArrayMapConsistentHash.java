@@ -4,6 +4,7 @@ import com.mitbook.construct.SortArrayMap;
 
 /**
  * 自定义map排序
+ * @author pengzhengfa
  */
 public class SortArrayMapConsistentHash extends AbstractConsistentHash{
     private SortArrayMap sortArrayMap = new SortArrayMap();

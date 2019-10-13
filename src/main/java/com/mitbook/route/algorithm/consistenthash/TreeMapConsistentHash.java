@@ -5,6 +5,7 @@ import java.util.TreeMap;
 
 /**
  * TreeMap 实现
+ * @author pengzhengfa
  */
 public class TreeMapConsistentHash extends AbstractConsistentHash {
 

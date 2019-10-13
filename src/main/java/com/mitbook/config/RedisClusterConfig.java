@@ -17,7 +17,9 @@ import redis.clients.jedis.JedisPoolConfig;
 
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * @author pengzhengfa
+ */
 @Configuration
 @ConditionalOnClass(JedisCluster.class)
 public class RedisClusterConfig {

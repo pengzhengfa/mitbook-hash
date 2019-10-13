@@ -7,6 +7,7 @@ import java.util.List;
 
 /**
  * 一致性Hash算法抽象类
+ * @author pengzhengfa
  */
 public abstract class AbstractConsistentHash {
 

@@ -7,7 +7,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import java.lang.reflect.Method;
-
+/**
+ * @author pengzhengfa
+ */
 @Configuration
 public class BeanConfig {
 

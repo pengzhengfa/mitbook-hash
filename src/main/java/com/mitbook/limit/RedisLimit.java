@@ -10,6 +10,9 @@ import redis.clients.jedis.JedisCluster;
 
 import java.io.IOException;
 import java.util.Collections;
+/**
+ * @author pengzhengfa
+ */
 @Component
 public class RedisLimit {
 
